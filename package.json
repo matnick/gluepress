@@ -1,10 +1,10 @@
 {
-  "name": "vuepress",
+  "name": "gluepress",
   "version": "0.14.4",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "main": "lib/index.js",
   "bin": {
-    "vuepress": "bin/vuepress.js"
+    "gluepress": "bin/vuepress.js"
   },
   "scripts": {
     "dev": "node bin/vuepress dev docs",
